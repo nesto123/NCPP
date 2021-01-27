@@ -3,14 +3,14 @@
 
 Zadaće iz kolegija "Napredni c++" ak. god. 2020/2021:
 
-- [anyof](anyof-nesto123-main)
-- [hash](hash-nesto123-main)
-- [paraccumulate](paraccumulate-nesto123-main)
-- [parminel-nesto123](parminel-nesto123-main)
-- [qt_download](qt_download-nesto123-master)
-- [qt_email](qt_email-nesto123-master)
-- [qt_login](qt_login-nesto123-master)
-- [qt_tcp](qt_tcp-nesto123-main)
+- [anyof](anyof-nesto123-main/anyof-nesto123-main)
+- [hash](hash-nesto123-main/hash-nesto123-main)
+- [paraccumulate](paraccumulate-nesto123-main/paraccumulate-nesto123-main)
+- [parminel-nesto123](parminel-nesto123-main/parminel-nesto123-main)
+- [qt_download](qt_download-nesto123-master/qt_download-nesto123-master)
+- [qt_email](qt_email-nesto123-master/qt_email-nesto123-master)
+- [qt_login](qt_login-nesto123-master/qt_login-nesto123-master)
+- [qt_tcp](qt_tcp-nesto123-main/qt_tcp-nesto123-main)
 
 
 # License
