@@ -11,6 +11,7 @@ Zadaće iz kolegija "Napredni c++" ak. god. 2020/2021:
 - [qt_email](qt_email-nesto123-master/qt_email-nesto123-master)
 - [qt_login](qt_login-nesto123-master/qt_login-nesto123-master)
 - [qt_tcp](qt_tcp-nesto123-main/qt_tcp-nesto123-main)
+- [qt_eos](qt_eos-nesto123)
 
 
 # License
